@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/1872-stone-game-viii) |
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
