@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaindhavi1610/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
